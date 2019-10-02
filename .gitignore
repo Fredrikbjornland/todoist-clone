@@ -6,7 +6,7 @@
 .pnp.js
 
 #firebase
-/home/fredrik/Documents/projects/todoist-tut/src/firebase.js
+src/firebase.js
 
 # testing
 /coverage
